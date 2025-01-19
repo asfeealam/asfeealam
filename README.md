@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asfeealam
-- 👀 I’m interested in working as a business analyst
+- 👀 I’m interested in working as a data analyst/business analyst
 - 🌱 I’m currently learning various computer languages
 - 📫 How to reach me - alam.asfee@gmail.com
 
